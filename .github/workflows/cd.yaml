@@ -18,7 +18,6 @@ jobs:
 
   test-api:
     runs-on: ubuntu-latest
-    needs: [backend, frontend]
 
     steps:
       - uses: actions/checkout@v3
