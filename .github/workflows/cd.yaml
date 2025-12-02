@@ -16,7 +16,7 @@ jobs:
           echo "Deploying the application..."
           echo "Deployment completed."
 
-  test API:
+  test-api:
     runs-on: ubuntu-latest
 
     steps:
