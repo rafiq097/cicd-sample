@@ -34,7 +34,7 @@ jobs:
       - name: Build Frontend
         run: cd frontend && npm run build
 
-  test:
+  test API:
     runs-on: ubuntu-latest
 
     steps:
