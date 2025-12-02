@@ -1,4 +1,4 @@
-name: Sample cd
+name: Sample CD
 
 on:
   push:
